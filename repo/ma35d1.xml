@@ -9,5 +9,5 @@
   <project remote="nuvoton" name="MA35D1_optee_os-v3.9.0" revision="master" path="MA35D1_optee_os-v3.9.0"/>
   <project remote="nuvoton" name="MA35D1_linux-5.4.y" revision="master" path="MA35D1_linux-5.4.y"/>
   <project remote="nuvoton" name="MA35D1_u-boot-v2020.07" revision="master" path="MA35D1_u-boot-v2020.07"/>
-  <project remote="schung" name="MA35D1_buildroot_repo" revision="master" path="MA35D1_Buildroot"/>
+  <project remote="schung" name="MA35D1_buildroot_repo" revision="master" path="MA35D1_buildroot_override"/>
 </manifest>
