@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+
   <default sync-j="2"/>
   <remote fetch="https://github.com/OpenNuvoton" name="nuvoton"/>
-  <remote fetch="https://github.com/schung1218" name="schung1218"/>
+  <remote fetch="https://github.com/schung1218" name="schung"/>
   <project remote="nuvoton" name="MA35D1_Buildroot" revision="master" path="buildroot"/>
-  <project remote="nuvoton" name="MA35D1_arm-trusted-firmware-v2.3" revision="master" path="buildroot"/>
-  <project remote="nuvoton" name="MA35D1_optee_os-v3.9.0" revision="master" path="buildroot"/>
-  <project remote="nuvoton" name="MA35D1_linux-5.4.y" revision="master" path="buildroot"/>
-  <project remote="nuvoton" name="MA35D1_u-boot-v2020.07" revision="master" path="buildroot"/>
-  <project remote="schung1218" name="MA35D1_buildroot_repo" revision="master" path="buildroot"/>
+
 </manifest>
